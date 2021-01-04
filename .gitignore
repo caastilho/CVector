@@ -2,5 +2,6 @@
 .gitignore
 
 CMakeLists.txt
+run.sh
 build
 test.exe
